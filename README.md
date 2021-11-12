@@ -1,3 +1,42 @@
+# About Increment-Decrement App
+
+The increment decrement app is a simple react app calculator that allows users to 
+increase numbers by clicking on buttons
+
+# Why this app?
+
+This simple app was a Challenge given by our React instructor 
+in the Side Hustle Remote Internship programme which was organized
+for African youth who have interest to build their soft skills in tech.
+The aim was to help us understand better how 'useState' works in React JS
+
+# Tools and technologies used 
+
+This simple react app made use of technologies including html tags,
+css styling and javascript functions as well as react syntax
+
+# How it works
+
+- The default number given is '0'. 
+- User can increase the number by clicking on the add button
+- On the other hand, user can decrease the number by clicking on the minus button
+
+# How it looks like 
+
+<img src="increase_decrease.png" />
+
+# Recommendation
+
+I am highly thankful to the Side Hustle Internship team for exposing me to learn
+new things and how React JS works.
+
+
+
+
+
+
+# The details below are the default read me contents 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
