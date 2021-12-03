@@ -23,7 +23,7 @@ css styling and javascript functions as well as react syntax
 
 # How it looks like 
 
-<img src="increase_decrease.png" />
+![Screenshot](/src/Hoc/images/increase_decrease.png?raw=true "Optional Title")
 
 # Recommendation
 
